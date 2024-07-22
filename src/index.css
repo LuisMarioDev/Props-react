@@ -1,0 +1,10 @@
+.text-center{
+text-align: center;
+}
+
+
+.image-size {
+width: 100px; /* Ajusta el ancho según sea necesario */
+height: auto; /* Mantén la relación de aspecto original */
+}
+    
